@@ -1,17 +1,18 @@
 # Django CRM Tutorial Project
 
-This project is a simple Customer Relationship Management (CRM) system built with Django, PostgreSQL, and Bootstrap. It was created following a tutorial for learning purposes.
+This project is a simple Customer Relationship Management (CRM) system built with Django, PostgreSQL, and Bootstrap. It started as a learning project and has evolved over time with added features and improvements.
 
 ## Features
 
 - User authentication: Users can log in to the system.
 - Customer management: Users can create, modify, and delete customer records in the database.
+- Template system: Utilizes Django's template system for a dynamic and responsive user interface.
 
 ## Tech Stack
 
-- **Django**: A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-- **PostgreSQL**: A powerful, open-source object-relational database system.
-- **Bootstrap**: A free and open-source CSS framework directed at responsive, mobile-first front-end web development.
+- **Django**: Python Web framework known for rapid development and clean design.
+- **PostgreSQL**: Robust open-source relational database system.
+- **Bootstrap**: Widely-used CSS framework for creating responsive and mobile-friendly web interfaces.1
 
 ## Getting Started
 
